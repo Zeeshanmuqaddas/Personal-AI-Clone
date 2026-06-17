@@ -1,3 +1,6 @@
+Built an AI Personal Clone Assistant with a persona engine (traits, goals, memories) and a decision-making chat system that simulates user behavior. It uses the Gemini model to generate structured responses with reasoning and confidence based on the cloned personality.
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
